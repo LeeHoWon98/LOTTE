@@ -1,4 +1,6 @@
 # LOTTE
+- 롯데멤버스 빅데이터 분석 대회 최종 결과물입니다.
+- 데이터는 공개가 불가함으로 최종 PPT로 올려보았습니다.
 
 ![L_point_ppt의 사본](https://user-images.githubusercontent.com/98515262/196638285-91c1fb42-a5df-4bde-8139-866a1add6459.png)
 ![L_point_ppt의 사본 (1)](https://user-images.githubusercontent.com/98515262/196638340-f2a4b678-6570-47e7-b20b-7ba96dc9a395.png)
